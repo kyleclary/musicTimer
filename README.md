@@ -91,9 +91,3 @@ I used Claude to help with:
 - Spotify Web API
 - CSS3 with animations
 - Local Storage for token persistence
-
-## License
-MIT License - feel free to use this project as inspiration for your own ideas!
-
----
-*Built with ❤️ and ☕ for anyone who's ever needed the perfect-length playlist*
